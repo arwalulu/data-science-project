@@ -39,7 +39,6 @@ https://www.unb.ca/cic/datasets/iotdataset-2023.html
 ---
 
 ## 📝 Outcomes  
-You may attach the result screenshots in the repo (e.g., under `/results/` folder).  
 Key findings:
 
 - **Best-performing models:**  
@@ -88,6 +87,3 @@ Key findings:
 5. Run all cells  
 
 ---
-
-If you want, I can also make a **shorter README**, a **prettier version with emojis**, or a **professional academic version**.
-
